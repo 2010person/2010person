@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @2010person
 - 👀 I’m interested in ... Apple Development, pygame
 - 🌱 I’m currently learning ... Web development, app development, Python
-- I have a YouTube channel which I am working on, youtube.com/@aahaninspace
+- I have a YouTube channel which I am working on, https://youtube.com/@aahaninspace
 - You can find me on Stack Overflow here: https://stackoverflow.com/users/20283517/aahan
 - You can find me on Apple Support Community here: https://discussions.apple.com/profile/Apple_helper_guy/participation
 - I know:
