@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @2010person
+- I stand with Ukraine in their fight against the Russian Federation and you should to.
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 - 👀 I’m interested in ... Apple Development, pygame
 - 🌱 I’m currently learning ... Web development, app development, Python
 - I have a YouTube channel which I am working on, https://youtube.com/@aahaninspace
