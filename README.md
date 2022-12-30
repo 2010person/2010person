@@ -9,7 +9,7 @@
 - I know:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) Swift and PHP
-- Find more about me at https://aahaninspace.tk/about
+- Find more about me at https://aahan.ml
 <!---
 2010person/2010person is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
