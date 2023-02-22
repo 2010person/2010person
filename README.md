@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2010person
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+2010person)](https://git.io/typing-svg)
 - I stand with Ukraine in their fight against the Russian Federation and you should to.
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 - 👀 I’m interested in ... Apple Development, pygame
