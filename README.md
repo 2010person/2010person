@@ -25,3 +25,7 @@ You can click the Preview link to take a look at your changes.
 - Look at my programming language activity
 
 ![2010person's language activity](https://github-readme-stats.vercel.app/api/top-langs/?username=2010person&theme=tokyonight)
+
+- Look at how many times my README has been viewed
+
+![2010person's profile views](https://hitcounter.pythonanywhere.com/count/tag.svg)
