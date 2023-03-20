@@ -22,10 +22,6 @@ You can click the Preview link to take a look at your changes.
 
 ![2010person's contribution snake](https://raw.githubusercontent.com/2010person/2010person/output/github-contribution-grid-snake.gif)
 
-- Look at my programming language activity
+- Look at my recent programming language activity
 
 ![2010person's language activity](https://github-readme-stats.vercel.app/api/top-langs/?username=2010person&theme=tokyonight)
-
-- Look at how many times my README has been viewed
-
-![2010person's profile views](https://hitcounter.pythonanywhere.com/count/tag.svg)
