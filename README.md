@@ -9,7 +9,7 @@
 - I know:
 
 
-![Icons](https://skillicons.dev/icons?i=py,css,cloudflare,discord,bots,git,github,githubactions,html,php,pytorch,replit,stackoverflow,swift,visualstudio,vscode&them=dark)
+![Icons](https://skillicons.dev/icons?i=py,css,cloudflare,discord,bots,flask,git,github,githubactions,html,idea,md,php,py,pytorch,replit,stackoverflow,swift,visualstudio,vscode&theme=dark)
 - Find more about me at https://aahan.ml
 <!---
 2010person/2010person is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
