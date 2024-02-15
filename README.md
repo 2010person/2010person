@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 - Look at my stats
 
 ![2010person's github stats](https://github-readme-stats.vercel.app/api?username=2010person&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-- Look at my contribution snake
+- Look at my contribution snake on GitHub
 
 ![2010person's contribution snake](https://raw.githubusercontent.com/2010person/2010person/output/github-contribution-grid-snake.gif)
 
