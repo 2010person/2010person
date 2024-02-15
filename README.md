@@ -2,7 +2,7 @@
 - I stand with Ukraine in their fight against the Russian Federation and you should to.
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 - 👀 I’m interested in ... Apple Development, pygame
-- 🌱 I’m currently learning ... Web development, App development (might do some Android/ChromeOS, but Windows is also a traget), Python
+- 🌱 I’m currently learning ... Web development, Application development (might do some Android/ChromeOS, but Windows is also a target), Python
 - I have a YouTube channel which I am working on, https://youtube.com/@aahaninspace
 - You can find me on Stack Overflow here: https://stackoverflow.com/users/20283517/aahan
 - You can find me on Apple Support Community here: https://discussions.apple.com/profile/Apple_helper_guy/participation
@@ -10,7 +10,7 @@
 
 
 ![Icons](https://skillicons.dev/icons?i=py,css,cloudflare,discord,bots,flask,git,github,githubactions,html,idea,md,php,py,pytorch,replit,stackoverflow,swift,visualstudio,vscode&theme=dark)
-- Find more about me at https://aahan.ml
+- Find more about me at https://2010persn.github.io
 <!---
 2010person/2010person is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
