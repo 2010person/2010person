@@ -10,7 +10,7 @@
 
 
 ![Icons](https://skillicons.dev/icons?i=py,css,cloudflare,discord,bots,flask,git,github,githubactions,html,idea,md,php,py,pytorch,replit,stackoverflow,swift,visualstudio,vscode&theme=dark)
-- Find more about me at https://2010persn.github.io
+- Find more about me at https://2010person.github.io
 <!---
 2010person/2010person is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
