@@ -3,7 +3,6 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 - 👀 I’m interested in ... Apple Development, pygame
 - 🌱 I’m currently learning ... Web development, Application development (might do some Android/ChromeOS, but Windows is also a target), Python
-- I have a YouTube channel which I am working on, https://youtube.com/@aahaninspace
 - You can find me on Stack Overflow here: https://stackoverflow.com/users/20283517/aahan
 - You can find me on Apple Support Community here: https://discussions.apple.com/profile/Apple_helper_guy/participation
 - I know:
